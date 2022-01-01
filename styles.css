@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+    color: blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style:italic;
+    font-weight: bold;
+}
+
+h2{
+    text-align: left;
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+p{
+    text-align: left;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+input{
+    width: 100%;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+a{
+    text-align: center;
+}
